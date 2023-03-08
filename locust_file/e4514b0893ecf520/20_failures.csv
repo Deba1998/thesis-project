@@ -1,0 +1,2 @@
+Method,Name,Error,Occurrences
+GET,perf_check,"ConnectionError(MaxRetryError(""HTTPSConnectionPool(host='safev2.cse.iitb.ac.in', port=443): Max retries exceeded with url: /sys_perf_check/e4514b0893ecf520/20 (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x....>: Failed to establish a new connection: [Errno -2] Name or service not known'))""))",59
